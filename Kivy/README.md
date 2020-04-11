@@ -2,10 +2,10 @@
 
 ---
 
-<p><img width="420" height="400" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20create.JPG"</p>
+<p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20create.JPG"</p>
   
-<p><img width="420" height="400" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20create.JPG"</p>
+<p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20login.JPG"</p>
   
-<p><img width="420" height="400" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20create.JPG"</p>
+<p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20invalid.JPG"</p>
   
-<p><img width="420" height="400" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20create.JPG"</p>
+<p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20logincorrect.JPG"</p>

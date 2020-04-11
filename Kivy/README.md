@@ -6,6 +6,6 @@
   
 <p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20login.JPG"</p>
   
-<p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20invalid.JPG"</p>
+<p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/invalid.JPG"</p>
   
 <p><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20logincorrect.JPG"</p>

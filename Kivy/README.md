@@ -2,17 +2,17 @@
 
 ---
 
-### _Create Account_  
+### <div align="center">_Create Account_  
 <p align="center"><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20create.JPG"</p>
   
 
-### _Login_    
+### <div align="center">_Login_    
 <p align="center"><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20login.JPG"</p>
 
 
-### _Invalid_  
+### <div align="center">_Invalid_  
 <p align="center"><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/invalid.JPG"</p>
 
 
-### _Login Accepted_  
+### <div align="center">_Login Accepted_  
 <p align="center"><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20logincorrect.JPG"</p>

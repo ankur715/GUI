@@ -16,3 +16,6 @@
 
 ### <div align="center">_Login Accepted_  
 <p align="center"><img width="400" height="350" src="https://github.com/ankur715/GUI/blob/master/Kivy/imgs/ankur%20logincorrect.JPG"</p>
+
+
+#### [_Methods_:](https://github.com/ankur715/GUI/tree/master/Kivy/main)

@@ -12,11 +12,7 @@
 <p align="center"><img width="700" height="350" src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/image.JPG"</p>
 
 <br/><br/>
-Equation      |     Answer
-:----------------:|:----------------:
-![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculation.JPG)   |   ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculationans.JPG)
-
 
 Equation             |  Answer
 :-------------------------:|:-------------------------:
-![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculation.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculationans.JPG)
+![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculator.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculatorans.JPG)

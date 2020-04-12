@@ -12,12 +12,12 @@ Calculator             |  Signature
 :-------------------------:|:-------------------------:
 ![](https://github.com/ankur715/GUI/blob/master/KV/imgs/calculator.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/KV/imgs/AP.JPG)
 
-<p align="center"><img width="350" height="350" src="https://github.com/ankur715/GUI/blob/master/KV/imgs/calculator.JPG"></p>
-  
-<p align="center"><img width="400" height="400" src="https://github.com/ankur715/GUI/blob/master/KV/imgs/AP.JPG"></p>
+
+## <div align="center">[KV](https://github.com/ankur715/GUI/tree/master/KV) 
 
 <table><tr>
-<td> <img src="https://github.com/ankur715/GUI/blob/master/KV/imgs/calculator.JPG" alt="Drawing" style="width: 350px;"/> </td>
-<td> <img src="https://github.com/ankur715/GUI/blob/master/KV/imgs/AP.JPG" alt="Drawing" style="width: 350px;"/> </td>
+<td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" style="width: 300px;"/> </td>
+<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" style="width: 300px;"/> </td>
 </tr></table>
 

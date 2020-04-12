@@ -21,8 +21,8 @@ Alert             |  Question          |  Answer
 
 
 
-<tr>
+<table><tr>
 <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 100px;"/> </td>
 <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" alt="Drawing" style="width: 100px;"/> </td>
 <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" alt="Drawing" style="width: 100px;"/> </td>
-</tr>
+</tr></table>

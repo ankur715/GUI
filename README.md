@@ -15,12 +15,6 @@ Calculator             |  Signature
 
 ## <div align="center">[Tkinter](https://github.com/ankur715/GUI/tree/master/Tkinter) 
 
-Alert             |  Question          |  Answer
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG)
-
-
-
 <table><tr>
 <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 100px;"/> </td>
 <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" alt="Drawing" style="width: 100px;"/> </td>

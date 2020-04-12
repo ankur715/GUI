@@ -13,11 +13,11 @@ Calculator             |  Signature
 ![](https://github.com/ankur715/GUI/blob/master/KV/imgs/calculator.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/KV/imgs/AP.JPG)
 
 
-## <div align="center">[KV](https://github.com/ankur715/GUI/tree/master/KV) 
+## <div align="center">[Tkinter](https://github.com/ankur715/GUI/tree/master/Tkinter) 
 
 <table><tr>
 <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 100px;"/> </td>
-<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" style="width: 100px;"/> </td>
-<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" style="width: 100px;"/> </td>
+<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" alt="Drawing" style="width: 100px;"/> </td>
+<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" alt="Drawing" style="width: 100px;"/> </td>
 </tr></table>
 

@@ -14,4 +14,4 @@
 <br/><br/>
 Equation      |     Answer
 :----------------:|:----------------:
-https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculation.JPG   |   https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculationans.JPG
+![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculation.JPG)   |   ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/calculationans.JPG)

@@ -2,4 +2,4 @@
 
 ---
 
-<p align="center"><img width="450" height="400" src="https://github.com/ankur715/GUI/blob/master/TK/tk.JPG"></p>
+<p align="center"><img width="450" height="380" src="https://github.com/ankur715/GUI/blob/master/TK/tk.JPG"></p>

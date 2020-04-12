@@ -16,8 +16,8 @@ Calculator             |  Signature
 ## <div align="center">[KV](https://github.com/ankur715/GUI/tree/master/KV) 
 
 <table><tr>
-<td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 300px;"/> </td>
-<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" style="width: 300px;"/> </td>
-<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" style="width: 300px;"/> </td>
+<td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 100px;"/> </td>
+<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" style="width: 100px;"/> </td>
+<td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" style="width: 100px;"/> </td>
 </tr></table>
 

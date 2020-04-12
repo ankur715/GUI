@@ -15,13 +15,14 @@ Calculator             |  Signature
 
 ## <div align="center">[Tkinter](https://github.com/ankur715/GUI/tree/master/Tkinter) 
 
-    <tr>
-    <td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 100px;"/> </td>
-    <td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" alt="Drawing" style="width: 100px;"/> </td>
-    <td> <img src=https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" alt="Drawing" style="width: 100px;"/> </td>
-    </tr>
+Alert             |  Question          |  Answer
+:-------------------------:|:-------------------------:
+![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG)
 
-    <tr>
-    <td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
-    <td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
-    </tr>
+
+
+<tr>
+<td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxalert.JPG" alt="Drawing" style="width: 100px;"/> </td>
+<td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxQ.JPG" alt="Drawing" style="width: 100px;"/> </td>
+<td> <img src="https://github.com/ankur715/GUI/blob/master/Tkinter/imgs/messageboxNo.JPG" alt="Drawing" style="width: 100px;"/> </td>
+</tr>

@@ -1,4 +1,4 @@
-# GUI
+# <div align="center">GUI
 
 ---
 

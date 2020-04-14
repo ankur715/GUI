@@ -5,8 +5,7 @@
 <p><img src="https://github.com/ankur715/GUI/tree/master/Flask/2.%20templates"></p>
 
 ### [Forms and Validation](https://github.com/ankur715/GUI/tree/master/Flask/3.%20forms_and_validation)
-<p><img src="https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/register.JPG"></p>
-<p><img src="https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/registered.JPG"></p>
+
 Register             |  Account Registered
 :-------------------------:|:-------------------------:
 ![](https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/register.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/registered.JPG)

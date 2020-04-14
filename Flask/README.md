@@ -3,7 +3,7 @@
 
 
 ### [Templates](https://github.com/ankur715/GUI/tree/master/Flask/2.%20templates)
-<p><img src="https://github.com/ankur715/GUI/tree/master/Flask/2.%20templates"></p>
+<p><img src="https://github.com/ankur715/GUI/blob/master/Flask/2.%20templates/templates.JPG"></p>
 
 
 ### [Forms and Validation](https://github.com/ankur715/GUI/tree/master/Flask/3.%20forms_and_validation)  
@@ -12,4 +12,4 @@ Register             |  Account Registered
 ![](https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/register.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/registered.JPG)  
 
 <br/><br/>  
-#### _[Reference](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+#### [Reference](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)

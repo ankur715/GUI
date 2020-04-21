@@ -3,6 +3,9 @@
 ---
 
 ## <div align="center">[Flask](https://github.com/ankur715/GUI/tree/master/Flask)
+Register             |  Account Registered
+:-------------------------:|:-------------------------:
+![](https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/register.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Flask/3.%20forms_and_validation/imgs/registered.JPG)  
 
 
 ## <div align="center">[Kivy](https://github.com/ankur715/GUI/tree/master/Kivy)  

@@ -21,6 +21,7 @@ Register             |  Account Registered
 
 
 ### [User Authentication](https://github.com/ankur715/GUI/tree/master/Flask/6.%20user%20authentication)
+Bcrypt Shell             |  Account Logout
 :-------------------------:|:-------------------------:
 ![](https://github.com/ankur715/GUI/blob/master/Flask/6.%20user%20authentication/bcrypt.JPG)  |  ![](https://github.com/ankur715/GUI/blob/master/Flask/6.%20user%20authentication/logout.png)  
 

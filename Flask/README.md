@@ -23,7 +23,8 @@ Register             |  Account Registered
 ### [User Authentication](https://github.com/ankur715/GUI/tree/master/Flask/6.%20user%20authentication)
 <p><img src="https://github.com/ankur715/GUI/blob/master/Flask/6.%20user%20authentication/logout.png"></p>
 
-
+### [User Account and Profile Picture](https://github.com/ankur715/GUI/tree/master/Flask/7.%20user%20account%20and%20profile%20picture)
+<p><img src="https://github.com/ankur715/GUI/blob/master/Flask/7.%20user%20account%20and%20profile%20picture/account.png"></p>
 
 <br/><br/>  
 #### [Reference](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)

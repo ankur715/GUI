@@ -13,7 +13,7 @@ Register             |  Account Registered
 
 
 ### [Databases](https://github.com/ankur715/GUI/tree/master/Flask/2.%20templates)
-<p align="center"><img width="500" height="400" src="https://github.com/ankur715/GUI/blob/master/Flask/4.%20databases/cmd.JPG"></p>
+<p align="center"><img width="600" height="400" src="https://github.com/ankur715/GUI/blob/master/Flask/4.%20databases/cmd.JPG"></p>
 
 
 ### [Package Structure](https://github.com/ankur715/GUI/tree/master/Flask/5.%20package%20structure)
